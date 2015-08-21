@@ -1,0 +1,3 @@
+Content\guy0.xnb
+Content\guy1.xnb
+Content\guy2.xnb

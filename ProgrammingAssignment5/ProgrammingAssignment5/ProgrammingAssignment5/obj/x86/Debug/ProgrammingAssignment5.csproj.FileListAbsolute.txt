@@ -1,0 +1,30 @@
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\mine.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\ProgrammingAssignment5.exe
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\ProgrammingAssignment5.pdb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\TeddyMineExplosion.dll
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.exe
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 7\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.pdb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\mine.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\ProgrammingAssignment5.exe
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\ProgrammingAssignment5.pdb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\TeddyMineExplosion.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.exe
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.pdb

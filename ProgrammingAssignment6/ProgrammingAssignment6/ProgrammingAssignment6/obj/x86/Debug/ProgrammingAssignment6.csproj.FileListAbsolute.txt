@@ -1,0 +1,209 @@
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ace.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Eight.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Five.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Four.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Jack.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\King.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Nine.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Queen.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Seven.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Six.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ten.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Three.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Two.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ace.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Eight.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Five.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Four.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Jack.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\King.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Nine.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Queen.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Seven.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Six.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ten.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Three.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Two.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ace.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Eight.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Five.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Four.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Jack.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\King.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Nine.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Queen.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Seven.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Six.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ten.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Three.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Two.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ace.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Eight.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Five.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Four.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Jack.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\King.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Nine.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Queen.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Seven.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Six.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ten.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Three.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Two.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Back.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\hitbutton.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\quitbutton.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\standbutton.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Arial24.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.exe
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.pdb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.exe
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.pdb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ace.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Eight.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Five.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Four.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Jack.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\King.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Nine.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Queen.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Seven.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Six.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ten.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Three.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Two.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ace.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Eight.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Five.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Four.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Jack.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\King.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Nine.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Queen.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Seven.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Six.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ten.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Three.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Two.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ace.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Eight.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Five.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Four.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Jack.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\King.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Nine.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Queen.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Seven.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Six.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ten.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Three.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Two.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ace.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Eight.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Five.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Four.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Jack.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\King.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Nine.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Queen.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Seven.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Six.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ten.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Three.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Two.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Back.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\hitbutton.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\quitbutton.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\standbutton.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Arial24.xnb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.exe
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.pdb
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.csprojResolveAssemblyReference.cache
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.exe
+D:\Eigene Dateien\Studium\Coursera\completed\Game Programming in C#\Week 9\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.pdb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ace.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Eight.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Five.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Four.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Jack.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\King.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Nine.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Queen.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Seven.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Six.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ten.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Three.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Two.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ace.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Eight.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Five.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Four.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Jack.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\King.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Nine.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Queen.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Seven.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Six.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ten.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Three.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Two.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ace.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Eight.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Five.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Four.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Jack.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\King.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Nine.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Queen.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Seven.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Six.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ten.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Three.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Two.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ace.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Eight.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Five.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Four.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Jack.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\King.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Nine.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Queen.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Seven.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Six.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ten.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Three.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Two.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Back.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\hitbutton.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\quitbutton.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\standbutton.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Arial24.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.exe
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.pdb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.exe
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.pdb

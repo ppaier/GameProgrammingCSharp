@@ -1,0 +1,2 @@
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 5\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ProgrammingAssignment4Content.contentprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ProgrammingAssignment4Content.contentprojResolveAssemblyReference.cache

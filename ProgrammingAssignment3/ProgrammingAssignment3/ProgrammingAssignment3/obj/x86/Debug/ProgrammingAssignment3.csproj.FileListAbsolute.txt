@@ -1,0 +1,28 @@
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\greenrock.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\magentarock.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\whiterock.xnb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Philipp\Videos\Coursera\Game Programming in C#\Week 3\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\greenrock.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\magentarock.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\whiterock.xnb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Philipp\Desktop\CSharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
